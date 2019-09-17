@@ -1,0 +1,44 @@
+{
+  "emoji": [
+    {
+      "name": "add dependency",
+      "emoji": "\u2795",
+      "frequency": 0
+    },
+    {
+      "name": "bad code",
+      "emoji": "\ud83d\udca9",
+      "frequency": 0
+    }
+  ],
+  "verb": [
+    {
+      "verb": "add",
+      "frequency": 0
+    },
+    {
+      "verb": "fix",
+      "frequency": 0
+    }
+  ],
+  "object": [
+    {
+      "object": "bug",
+      "frequency": 0
+    },
+    {
+      "object": "typo",
+      "frequency": 0
+    }
+  ],
+  "template": [
+    {
+      "template": "\ud83c\udf89 Initial commit",
+      "frequency": 0
+    },
+    {
+      "template": "\ud83d\udcdd Update docs",
+      "frequency": 0
+    }
+  ]
+}
